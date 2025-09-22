@@ -38,7 +38,7 @@ The system is ideal for applications in **water tanks or environmental monitorin
 - Temperature sensor 
 
 ### 🔹 Water Clarity
-- Turbidity sensor (analog)  
+- Turbidity sensor 
 
 ---
 
